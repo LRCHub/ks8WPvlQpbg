@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Magia",
+  "base_artist": "Kalafina",
+  "createdAt": "2026-03-12T22:17:11.690926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Magia E' La Mia Amante (I Was Made To Love Magic)",
+      "artist": "Giusy Ferreri",
+      "has_synced": true,
+      "path": "select/01_La_Magia_E'_La_Mia_Amante_(I_Was_Made_To_Love_Magic)_Giusy_Ferreri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Questa Piccola Magia",
+      "artist": "Carmen Consoli",
+      "has_synced": true,
+      "path": "select/02_Questa_Piccola_Magia_Carmen_Consoli.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Un Giorno Di Ordinaria Magia",
+      "artist": "Negrita",
+      "has_synced": true,
+      "path": "select/03_Un_Giorno_Di_Ordinaria_Magia_Negrita.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Volevo Magia",
+      "artist": "Verdena",
+      "has_synced": true,
+      "path": "select/04_Volevo_Magia_Verdena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "È magia",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/05_È_magia_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magia",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/06_Magia_Shakira.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magia",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/07_Magia_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ruido de Magia",
+      "artist": "Invisible",
+      "has_synced": false,
+      "path": "select/08_Ruido_de_Magia_Invisible.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Magia De Tu Amor",
+      "artist": "Grupo Bryndis",
+      "has_synced": true,
+      "path": "select/09_La_Magia_De_Tu_Amor_Grupo_Bryndis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Intro, Magia",
+      "artist": "Maluma",
+      "has_synced": false,
+      "path": "select/10_Intro,_Magia_Maluma.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magia Negra",
+      "artist": "Romeo Santos feat. Mala Rodríguez",
+      "has_synced": true,
+      "path": "select/11_Magia_Negra_Romeo_Santos_feat._Mala_Rodríguez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magia Negra (feat. Mala Rodríguez)",
+      "artist": "Romeo Santos, Mala Rodríguez",
+      "has_synced": true,
+      "path": "select/12_Magia_Negra_(feat._Mala_Rodríguez)_Romeo_Santos,_Mala_Rodríguez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sera Esto Magia",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/13_Sera_Esto_Magia_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Magia del Ritmo",
+      "artist": "Gipsy Kings",
+      "has_synced": true,
+      "path": "select/14_Magia_del_Ritmo_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magia Del Ritmo",
+      "artist": "The Gipsy Kings",
+      "has_synced": true,
+      "path": "select/15_Magia_Del_Ritmo_The_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magia",
+      "artist": "Alvaro Soler",
+      "has_synced": true,
+      "path": "select/16_Magia_Alvaro_Soler.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Magia Tabu",
+      "artist": "Motel",
+      "has_synced": true,
+      "path": "select/17_Magia_Tabu_Motel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tienes Magia - En Vivo",
+      "artist": "Magneto & Mercurio",
+      "has_synced": true,
+      "path": "select/18_Tienes_Magia_-_En_Vivo_Magneto_&_Mercurio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magia",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/pl_01_Magia_Kalafina.txt"
+    }
+  ]
+}
